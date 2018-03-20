@@ -1,5 +1,5 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
+# Very Brandon's Portfolio
+Graphics, websites, UI, branding...
 
 
 
