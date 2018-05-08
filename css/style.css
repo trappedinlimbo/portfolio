@@ -189,6 +189,10 @@ sub,sup {
 sup {
 	top:-0.5em;
 }
+b{
+    font-size: 1.4em;
+    
+}
 sub {
 	bottom:-0.25em;
 }
@@ -459,7 +463,7 @@ table {
 	background-size: cover;
 	padding:110px 0 100px 0;
 	height:auto;
-	background-color: #FBFBFB;
+	background-color: white;
 }
 
 .hero h1 {
@@ -1043,7 +1047,7 @@ footer a {
 	color:#a1a9b0;
 }
 footer {
-	background-color:#f3f5f8;
+	background-color:white;
 	padding:20px 0 30px;
     
 }
